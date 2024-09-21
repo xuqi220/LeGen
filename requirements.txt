@@ -1,0 +1,9 @@
+torch
+tqdm
+peft
+transformers 
+deepspeed
+pkuseg
+rank_bm25
+openai
+zhipuai
